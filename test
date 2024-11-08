@@ -1,0 +1,25 @@
+2024 Year-End Review - Jason Zheng
+Summary of Performance
+This year marks my first with the GOA team, and I have actively participated in three major projects that leveraged a new technical stack. This experience has allowed me to demonstrate my ability to quickly adapt and lead solutions effectively.
+
+1. Power Platform CoE Team
+In the Power Platform Center of Excellence (CoE) team, I have taken on the responsibility for the Service Level Agreement (SLA) solution. My contributions include:
+
+Feature Enhancements: Implemented key features such as import/export configuration, per-project access control, and tracking of remaining SLAs.
+Deployment Pipeline: Developed the CoE pipeline to facilitate the deployment of the managed SLA solution across various environments and regions.
+2. POP Platform Team
+As part of the POP platform team, I contributed to the development of:
+
+Azure API Management Service: Built a robust API management service that serves as a critical component for the Power Platform solutions.
+On-Premises Data Gateway Service: Established a seamless connection between the Power Platform (SaaS) and internal HSBC API services hosted on GCP.
+Self-Service Onboarding: Designed a self-service onboarding process via Azure Pipelines, significantly reducing the API onboarding lead time and minimizing manual maintenance efforts.
+3. Project Sprout API Integration
+I led the API integration for Project Sprout, coordinating efforts across six product development streams (PDS). My key contributions included:
+
+Cross-Team Collaboration: Worked closely with the MWS, CBIL, and CUS teams to establish the iB2B pattern for GOA.
+Shared Library Development: Created a shared library to manage and promote the reuse of PAPI (Public API) across various forms, enhancing efficiency and consistency.
+Individual Development
+This year, I focused on my professional growth by working extensively with the Azure Cloud platform. I successfully obtained the Microsoft Azure Administrator Associate certification and plan to pursue the Azure Solutions Architect Expert certification next.
+
+Conclusion
+Overall, my first year in the GOA team has been both challenging and rewarding. I am proud of my contributions and eager to continue developing my skills while driving impactful solutions in the upcoming year.
